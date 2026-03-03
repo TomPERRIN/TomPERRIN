@@ -36,14 +36,6 @@ I enjoy designing clean architectures, writing efficient code, and understanding
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomPERRIN&show_icons=true&theme=tokyonight)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomPERRIN)](https://github.com/TomPERRIN/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomPERRIN&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-perrin-info)
