@@ -39,7 +39,7 @@ I enjoy designing clean architectures, writing efficient code, and understanding
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomPERRIN&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=TON_USERNAME&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomPERRIN)](https://github.com/TomPERRIN/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomPERRIN&layout=compact&theme=tokyonight)
 
 ---
