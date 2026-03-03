@@ -1,11 +1,11 @@
 Hi 👋 My name is Tom PERRIN
 ===========================
 
-Master degree student
+Master's degree student in computer science, software ingineering 
 ---------------------
 
 *   🌍  I'm based in Clermont-Ferrand (France)
-*   ✉️  You can contact me at [perrin.tom63@gmail.com](mailto:perrin.tom63@gmail.com)
+*   ✉️  You can contact me at [pro.tom.perrin@gmail.com](mailto:pro.tom.perrin@gmail.com)
 *   🧠  I'm learning a new api
 * ### Skills 
 <p align="left">
