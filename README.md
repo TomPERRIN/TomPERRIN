@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Tom Perrin
 
 🎓 Master's Student in Computer Science — Software Engineering  
 💻 Passionate about backend development, system design & scalable architectures  
